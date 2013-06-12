@@ -1,0 +1,27 @@
+[submodule "vim"]
+	path = vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/opscode-cookbooks/tomcat.git
+[submodule "maven"]
+	path = maven
+	url = https://github.com/opscode-cookbooks/maven.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "git"]
+	path = git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
